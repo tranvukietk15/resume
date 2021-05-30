@@ -1,0 +1,13 @@
+.w-100 {
+    width: 100%;
+}
+
+.rz-bg {
+    background-image: url('https://static.wixstatic.com/media/40fa3b_ea1ceeec636e481da19358c4010fea60~mv2.png/v1/fill/w_225,h_176,al_c,q_85,usm_0.66_1.00_0.01/40fa3b_ea1ceeec636e481da19358c4010fea60~mv2.webp');
+}
+
+.card-img {
+    width: 100% !important;
+    height: 176px;
+    border: 1px solid;
+}
