@@ -2,7 +2,7 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://tranvukietk15.github.io/resume",
   "dependencies": {
     "@types/react": "^17.0.8",
     "cra-template-typescript": "1.1.2",
