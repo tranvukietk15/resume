@@ -1,0 +1,9 @@
+[build]
+  command = "yarn build"
+  publish = "build"
+
+[context.production.environment]
+  TOML_ENV_VAR = "From netlify.toml"
+  REACT_APP_EMAIL = "From netlify.toml (REACT_APP_EMAIL)"
+  REACT_APP_PHONE = "From netlify.toml (REACT_APP_PHONE)"
+  REACT_APP_WEBSITE = "From netlify.toml (REACT_APP_WEBSITE)"
