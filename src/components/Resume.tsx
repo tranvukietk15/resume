@@ -7,15 +7,15 @@ const Resume = () => {
         <h4>Junior Developer At <a href="https://www.nashtechglobal.com/"><em>NashTech Global</em></a></h4>
       </div>
       <div className="resume-item">
-        <h4><del>Secrect Project</del></h4>
+        <h4><del>Confidential Project</del></h4>
         <h5 className="w-100">Dec-2019 - Present</h5>
         <h5>Project Description</h5>
         <ul>
-          <li>'Secrect Project' is highly regarded as a driving force in financial adviser professional development with their market-leading 'Secrect' product. Annually, 'Secrect' provide Continuing Professional Development (CPD) solutions to corporates and individuals, with over 35,000 users of CPD programs through its online CPD platform, 'Secrect'. The 'Secrect' product has evolved over time and is currently in its 16th year of operation.</li>
+          <li>'Confidential Project' is highly regarded as a driving force in financial adviser professional development with their market-leading 'Confidential' product. Annually, 'Confidential' provide Continuing Professional Development (CPD) solutions to corporates and individuals, with over 35,000 users of CPD programs through its online CPD platform, 'Confidential'. The 'Confidential' product has evolved over time and is currently in its 16th year of operation.</li>
           <li>
-            This project is to develop a new version of 'Secrect' product ('Secrect' V2) to replace the old one. 'Secrect' V2 has 3 main types of user:
+            This project is to develop a new version of 'Confidential' product ('Confidential' V2) to replace the old one. 'Confidential' V2 has 3 main types of user:
           <ul>
-              <li>'Secrect Project' Admin has ability to manage learning content in form of lesson, quiz or topic and manage Corporates as well as its learners through subscriptions.</li>
+              <li>'Confidential Project' Admin has ability to manage learning content in form of lesson, quiz or topic and manage Corporates as well as its learners through subscriptions.</li>
               <li>Corporate Admin has ability to upload their own contents for their users, manage their employees professional development by setting professional development plans, tracking, monitoring and reporting of training completed.</li>
               <li>Learner has ability to learn and track their learning progress based on the plans that have been set by manager.</li>
             </ul>

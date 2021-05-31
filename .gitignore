@@ -1,2 +1,2 @@
-.DS_store
-.eslintcache
+*.eslintcache
+*.DS_store
